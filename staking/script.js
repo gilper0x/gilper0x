@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let contract;
 
     // Smart contract address and ABI
-    const contractAddress = '0xYourContractAddress'; // Replace with the deployed contract address
+    const contractAddress = '0x4c0de6c79cd3517ff5dd97ce63b4465e3022842b'; // Replace with the deployed contract address
     const contractABI = [
         {
             "constant": true,
